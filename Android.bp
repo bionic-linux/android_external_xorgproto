@@ -1,0 +1,4 @@
+cc_library_headers {
+    name: "xorgproto",
+    export_include_dirs: ["include"],
+}
